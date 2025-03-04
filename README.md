@@ -1,4 +1,4 @@
-#AI-Partner 
+# AI-Partner 
 
 My goal is to create an AI software that can automate our daily tasks. It will be like Notion + Google Gemini + Make AI + ChatGPT.  
 It can talk, manage our health and tasks, and provide motivation.  
