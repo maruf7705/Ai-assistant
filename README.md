@@ -1,12 +1,9 @@
-# AI-Calander-Activity
-I Make a Calnder there have all of tools like a notion and clander have ,
+#AI-Partner 
 
-
-My goal is to create AI software that can automate our daily tasks. It’s a combination of Notion, Google Gemini, Make AI, and ChatGPT. This tool can have conversations, maintain our health and task management, and provide motivation. 
-
-Additionally, it features a Pomodoro timer, calendar, task manager, auto-calling capability, health doctor integration, and more. It's like having a best friend who supports you.
-
-She can assist with financial and business matters, analyze stocks, cryptocurrency, and other markets, and even automate buying and selling. In essence, she is just like my girlfriend.
-
-
-
+My goal is to create an AI software that can automate our daily tasks. It will be like Notion + Google Gemini + Make AI + ChatGPT.  
+It can talk, manage our health and tasks, and provide motivation.  
+This tool will include a Pomodoro timer, calendar, task manager, auto-call feature, health doctor, and more. It will be like your best friend.  
+It can help with financial and business tasks, analyze stocks, crypto, and other markets, and even auto-buy and auto-sell.  
+It’s not just an “it”—she is like my partner.  
+She can talk, care, help with finances, and suggest self-improvement tips.  
+This AI’s name is... (I’ll decide her name later).
