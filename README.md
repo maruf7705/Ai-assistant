@@ -7,3 +7,5 @@ It can help with financial and business tasks, analyze stocks, crypto, and other
 It’s not just an “it”—she is like my partner.  
 She can talk, care, help with finances, and suggest self-improvement tips.  
 This AI’s name is... (I’ll decide her name later).
+
+The code will be written in multiple languages. Right now, my first job is to create a good UI.
