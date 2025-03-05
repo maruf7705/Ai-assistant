@@ -13,3 +13,8 @@ The code will be written in multiple languages. Right now, my first job is to cr
 
 # Simple Dagine Done 
 ![Untitled-1](https://github.com/user-attachments/assets/a303f876-8d81-4e77-a027-bf3533fa7059)
+
+
+Tools, 
+DeePseek LLms, 
+Treaing Data ,,, 
