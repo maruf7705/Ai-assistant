@@ -52,7 +52,7 @@ We are using **both API-based and fine-tuned models**:
 ## 🛠️ Setup & Installation
 ### **🔰 1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/ai-assistant.git
+git clone https://github.com/maruf7705/ai-assistant.git
 cd ai-assistant
 ```
 
@@ -90,8 +90,8 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ---
 
 ## 📞 Contact
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Email:** your@email.com
+- **GitHub:** https://github.com/maruf7705
+- **Email:** md.maruf99707@gmail.com
 
 💡 *Join the journey of building an AI-powered assistant for personal and business success!* 🚀
 
