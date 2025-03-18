@@ -18,3 +18,5 @@ The code will be written in multiple languages. Right now, my first job is to cr
 Tools, 
 DeePseek LLms, 
 Treaing Data ,,, 
+Kaggel,,
+LLms ,
